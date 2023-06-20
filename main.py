@@ -20,4 +20,3 @@ for i in data["messages"]:
 
 df = pd.DataFrame(data_csv)
 print(df)
-# , columns=['id', 'type','date','date_unixtime']
